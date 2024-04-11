@@ -1,0 +1,16 @@
+## What is a Tensor?
+
+Tensors are the basic data structures that contain mostly numerical data. They are containers for numbers and a
+generalization of matrices to an arbitrary number of dimensions.
+
+
+## What is a data loader?
+
+Data loaders are crucial for efficient feeding of data into a neural network. They simplify the process by batching
+the data, shuffling it at the beginning of each epoch and allowing for parallel processing. This optimizes the training
+process, improves efficiency and generalizes the model.
+
+
+## Skeletonization?
+
+Skeletonization is the process of reducing the thickness of an object. Finding the essentials.
